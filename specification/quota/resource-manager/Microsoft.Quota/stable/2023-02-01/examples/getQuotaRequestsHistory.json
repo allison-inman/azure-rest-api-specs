@@ -6,7 +6,7 @@
   "responses": {
     "200": {
       "body": {
-        "nextLink": "https://management.azure.com/subscriptions/D7EC67B3-7657-4966-BFFC-41EFD36BAAB3/providers/microsoft.Quota/resourceProviders/Microsoft.Compute/locations/eastus/quotaRequests?api-version=2021-03-15&amp;$top=3",
+        "nextLink": "https://management.azure.com/subscriptions/D7EC67B3-7657-4966-BFFC-41EFD36BAAB3/providers/microsoft.Quota/resourceProviders/Microsoft.Compute/locations/eastus/quotaRequests?api-version=2023-02-01&amp;$top=3",
         "value": [
           {
             "id": "/subscriptions/D7EC67B3-7657-4966-BFFC-41EFD36BAAB3/providers/Microsoft.Compute/locations/eastus/providers/Microsoft.Quota/quotaRequests/2B5C8515-37D8-4B6A-879B-CD641A2CF605",
